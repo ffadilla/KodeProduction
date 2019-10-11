@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_KODE Indonesia</name>
+   <tag></tag>
+   <elementGuidId>8f55728a-5fb9-4c4f-a508-c49ef1b6e252</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='AQAAAAohGaEBAAAACjkjiwAAAAA=']/div/div/div/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_3zJzxRam-s-FYVZNqcZ0BW</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>KODE Indonesia</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;AQAAAAohGaEBAAAACjkjiwAAAAA=&quot;)/div[1]/div[@class=&quot;_1yIHkYLrqDZpAMQ3L2YILh _1E-ojjaYGhOxCgHp9Pe315 _5CGGutaz4d1vhT3GzbRJq _2Ht9U0YzzfQGXALqVdO2MN _3y98JUDT2d04xKfdZTf0VR&quot;]/div[@class=&quot;_1hHMVrN7VV4d6Ylz-FsMuP _18LAllQi61d4a4XNAr9prg&quot;]/div[@class=&quot;_2miAFnGHXlWwulyUmLEbzZ&quot;]/div[@class=&quot;l9wTN_3i3tZgMhfxzv1F6&quot;]/div[@class=&quot;_3zJzxRam-s-FYVZNqcZ0BW&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='AQAAAAohGaEBAAAACjkjiwAAAAA=']/div/div/div/div[2]/div/div</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KI'])[1]/following::div[4]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Undangan bergabung ke KODE dari PT TokoMedia Nusantara, Tbk'])[1]/preceding::div[6]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/div/div/div/div/div[2]/div/div/div/div[2]/div/div</value>
+   </webElementXpaths>
+</WebElementEntity>
