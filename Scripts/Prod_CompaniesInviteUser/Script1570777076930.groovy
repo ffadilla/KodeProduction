@@ -40,6 +40,8 @@ WebUI.setText(findTestObject('Prod_CompaniesInviteUser/Page_KODE  CORE/textarea_
 
 WebUI.click(findTestObject('Prod_CompaniesInviteUser/Page_KODE  CORE/button_ADD USERS'))
 
+WebUI.delay(4)
+
 WebUI.click(findTestObject('Prod_CompaniesInviteUser/Page_KODE  CORE/a_Sign Out'))
 
 WebUI.navigateToUrl('https://outlook.live.com/mail/')

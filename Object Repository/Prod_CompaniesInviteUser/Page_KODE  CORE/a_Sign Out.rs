@@ -9,6 +9,10 @@
          <key>XPATH</key>
          <value>//div[@id='root']/div/nav/div/a</value>
       </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[@href = '/login' and (text() = 'Sign Out' or . = 'Sign Out')]</value>
+      </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
