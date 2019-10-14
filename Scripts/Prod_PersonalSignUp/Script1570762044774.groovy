@@ -85,3 +85,5 @@ WebUI.click(findTestObject('Object Repository/Prod_PersonalSignUp/Page_Home - KO
 
 WebUI.click(findTestObject('Object Repository/Prod_PersonalSignUp/Page_Home - KODE/span_logout'))
 
+WebUI.closeBrowser()
+

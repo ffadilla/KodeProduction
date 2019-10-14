@@ -101,3 +101,5 @@ WebUI.click(findTestObject('Prod_CompaniesInviteUser/Page_Home - KODE/div_Nabila
 
 WebUI.click(findTestObject('Prod_CompaniesInviteUser/Page_Home - KODE/span_logout'))
 
+WebUI.closeBrowser()
+

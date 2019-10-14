@@ -62,3 +62,5 @@ WebUI.click(findTestObject('Object Repository/Prod_CreateCompanies/Page_KODE  CO
 WebUI.setText(findTestObject('Object Repository/Prod_CreateCompanies/Page_KODE  CORE/input_Search Company_w-100 ph2 outline-0 bn css-1atig4m'), 
     'PT Tokomedia')
 
+WebUI.closeBrowser()
+
