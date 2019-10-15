@@ -28,4 +28,10 @@
       <isRun>false</isRun>
       <testCaseId>Test Cases/Prod_PersonalSignUp</testCaseId>
    </testCaseLink>
+   <testCaseLink>
+      <guid>74bb3133-a026-4601-8b40-f6ec3ac44103</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Prod_EditProfileData</testCaseId>
+   </testCaseLink>
 </TestSuiteEntity>
